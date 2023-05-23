@@ -15,7 +15,7 @@
 
  tecla X: avança uma senha preferencial a cada vez que é pressionada, permitindo chamar a próxima senha ou alguma senha a frente.
 
- tecl P: permite tocar o som do chamado a qualquer momento.
+ tecla P: permite tocar o som do chamado a qualquer momento.
 
  Para zerar todas as senhas basta recarregar a página.
 
